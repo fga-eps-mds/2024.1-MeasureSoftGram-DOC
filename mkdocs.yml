@@ -1,0 +1,9 @@
+site_name: 2024.1-MeasureSoftGram-DOC
+
+repo_name: '2024.1-MeasureSoftGram-DOC'
+repo_url: 'https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC'
+
+theme:
+  name: material
+  palette:
+    primary: black 

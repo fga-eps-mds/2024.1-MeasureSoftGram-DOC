@@ -1,4 +1,4 @@
-ame: mkdocs ghpages
+name: mkdocs ghpages
 
 on:
   push:

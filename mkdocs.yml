@@ -16,7 +16,8 @@ nav:
   - Planejamento:
     - Heatmap de horários: planejamento/horarios.md
     - Tabela de conhecimentos: planejamento/conhecimentos.md
+    - Ferramentas: planejamento/ferramentas.md
   - Sprints: 
-    - Sprint 1: 
-      - Review: sprints/sprint1/review.md
-      - Sprint: sprints/sprint1/sprint.md
+    - Sprint 0: 
+      - Review: sprints/sprint0/review.md
+      - Sprint: sprints/sprint0/sprint.md

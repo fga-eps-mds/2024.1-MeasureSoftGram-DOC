@@ -7,10 +7,10 @@ A importância do HeatMap em um projeto reside na sua capacidade de otimizar o t
 O mapa de calor da equipe pode ser visualizada abaixo, juntamente com a sua respectiva legenda:
 
 <div align="center">
-  <img src="./assets/HeatMap_Legenda.png" alt="Cores do Heatmap">
+  <img src="https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap_Legenda.png" alt="Cores do Heatmap">
   <p>Figura 1 - Cores do Heatmap</p>
 
-  <img src="./assets/HeatMap.png" alt="Heatmap">
+  <img src="https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap.png" alt="Heatmap">
   <p>Figura 2 - Heatmap</p>
 
 </div>
@@ -18,7 +18,7 @@ O mapa de calor da equipe pode ser visualizada abaixo, juntamente com a sua resp
 
 E abaixo é possível verificar a disponibilidade individual de cada integrante da equipe, e também no link:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/18ObkwbpE9SgtZxDWXdmmBXuMiLJM0BMJ5dgpsCN1L7I/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/e/18ObkwbpE9SgtZxDWXdmmBXuMiLJM0BMJ5dgpsCN1L7I/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 - Link: [heatmap individual](https://docs.google.com/spreadsheets/d/18ObkwbpE9SgtZxDWXdmmBXuMiLJM0BMJ5dgpsCN1L7I/edit?usp=sharing)

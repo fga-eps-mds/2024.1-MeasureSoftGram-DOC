@@ -1,23 +1,27 @@
 site_name: 2024.1-MeasureSoftGram-DOC
 
-repo_name: '2024.1-MeasureSoftGram-DOC'
-repo_url: 'https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC'
+repo_name: "2024.1-MeasureSoftGram-DOC"
+repo_url: "https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC"
 
 theme:
   name: material
-  language: 'pt'
-  logo: 'assets/logo.svg'
-  favicon: 'assets/logo.svg'
+  language: "pt"
+  logo: "assets/logo.svg"
+  favicon: "assets/logo.svg"
   palette:
     primary: black
 
 nav:
   - Início: index.md
   - Planejamento:
-    - Heatmap de horários: planejamento/horarios.md
-    - Tabela de conhecimentos: planejamento/conhecimentos.md
-    - Ferramentas: planejamento/ferramentas.md
-  - Sprints: 
-    - Sprint 0: 
-      - Review: sprints/sprint0/review.md
-      - Sprint: sprints/sprint0/sprint.md
+      - Heatmap de horários: planejamento/horarios.md
+      - Tabela de conhecimentos: planejamento/conhecimentos.md
+      - Ferramentas: planejamento/ferramentas.md
+  - Sprints:
+      - Sprint 0:
+          - Review: sprints/sprint0/review.md
+          - Sprint: sprints/sprint0/sprint.md
+  - Guia de contribuição:
+      - Código de conduta: guia-de-contribuicao/codigo-de-conduta.md
+      - Politica de commits: guia-de-contribuicao/politica-de-commits.md
+      - Politica de branches: guia-de-contribuicao/politica-de-branch.md

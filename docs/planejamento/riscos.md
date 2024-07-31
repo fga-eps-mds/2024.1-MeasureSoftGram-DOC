@@ -2,14 +2,14 @@
 
 ## Introdução
 
-Os riscos de um projeto podem comprometer o seu planejamento, cronograma e custo, podendo estar relacionados a diversos fatores, como custo, tempo, pessoas, recursos, clientes, requisitos, entre outros <a href=./#referencias>¹</a>. Com o objetivo de identificar, analisar e monitorar esses riscos, foi elaborado este plano de gestão de riscos.
+Os riscos inerentes a um projeto podem afetar negativamente seu planejamento, cronograma e orçamento. Esses riscos podem surgir de vários fatores, incluindo custo, tempo, pessoal, recursos, clientes, requisitos, entre outros <a href=./#referencias>¹</a>. Para identificar, analisar e monitorar esses riscos de forma eficaz, foi desenvolvido este plano de gestão de riscos.
 
 ### Tipos de risco
 
 Para a classificação dos riscos, foram consideradas as seguintes categorias <a href=./#referencias>³</a>:
 
 - Externo
-- Gerencial
+- Gerencial 
 - Organizacional
 - Técnico
 
@@ -123,7 +123,9 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias <a
 
 ## Monitoramento dos Riscos
 
-O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto de software, uma vez que os riscos não são estáticos e podem mudar de nível ao longo do projeto <a href=./#referencias>²</a>. Para realizar esse monitoramento foi criada uma planilha para inserir a pontuação dos riscos para cada sprint.
+A supervisão contínua dos riscos é crucial no desenvolvimento de um projeto de software, pois os riscos são dinâmicos e podem variar de intensidade ao longo do projeto <a href=./#referencias>²</a>. Para facilitar esse monitoramento, foi criada uma planilha onde a pontuação dos riscos é inserida para cada sprint, permitindo uma avaliação constante e ajustável dos riscos envolvidos.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJ9x6hikAIwcBrZi2a6k4CWL6Ipk4nJ0fVO0wKCiSk0aVxPEwz1ooI13j5nuI3hNR2WfYSQsrIENhP/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 ## Referências
@@ -139,3 +141,4 @@ O acompanhamento dos riscos é essencial durante o desenvolvimento de um projeto
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 30/07/2024 | Criação do documento | Leonardo Vitoriano |
+|1.1| 31/07/2024 | Tabela de monitoramento | Leonardo Vitoriano |

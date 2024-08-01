@@ -125,7 +125,7 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias <a
 
 A supervisão contínua dos riscos é crucial no desenvolvimento de um projeto de software, pois os riscos são dinâmicos e podem variar de intensidade ao longo do projeto <a href=./#referencias>²</a>. Para facilitar esse monitoramento, foi criada uma planilha onde a pontuação dos riscos é inserida para cada sprint, permitindo uma avaliação constante e ajustável dos riscos envolvidos.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJ9x6hikAIwcBrZi2a6k4CWL6Ipk4nJ0fVO0wKCiSk0aVxPEwz1ooI13j5nuI3hNR2WfYSQsrIENhP/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJ9x6hikAIwcBrZi2a6k4CWL6Ipk4nJ0fVO0wKCiSk0aVxPEwz1ooI13j5nuI3hNR2WfYSQsrIENhP/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
 ## Referências

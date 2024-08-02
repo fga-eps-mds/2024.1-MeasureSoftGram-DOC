@@ -22,6 +22,7 @@ nav:
       - Ferramentas: planejamento/ferramentas.md
       - Arquitetura: planejamento/arquitetura.md
       - EAP: planejamento/eap.md
+      - Plano de Custos: planejamento/custos.md
       - Plano de Riscos: planejamento/riscos.md
       - Plano de Qualidade: planejamento/qualidade.md
   - Sprints:

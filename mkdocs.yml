@@ -13,6 +13,8 @@ theme:
 
 nav:
   - Início: index.md
+  - Produto:
+      - Lean Inception: produto/lean-inception.md
   - Planejamento:
       - Comunicação: planejamento/comunicacao.md
       - Heatmap de horários: planejamento/horarios.md
@@ -26,6 +28,7 @@ nav:
       - Sprint 0:
           - Review: sprints/sprint0/review.md
           - Sprint: sprints/sprint0/sprint.md
+
   - Guia de contribuição:
       - Código de conduta: guia-de-contribuicao/codigo-de-conduta.md
       - Politica de commits: guia-de-contribuicao/politica-de-commits.md

@@ -14,6 +14,7 @@ theme:
 nav:
   - Início: index.md
   - Planejamento:
+      - Comunicação: planejamento/comunicacao.md
       - Heatmap de horários: planejamento/horarios.md
       - Tabela de conhecimentos: planejamento/conhecimentos.md
       - Ferramentas: planejamento/ferramentas.md

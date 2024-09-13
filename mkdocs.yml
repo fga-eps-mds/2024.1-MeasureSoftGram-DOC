@@ -13,29 +13,30 @@ theme:
 
 nav:
   - Início: index.md
-  - Produto:
-      - Lean Inception: produto/lean-inception.md
-      - Documento de identidade visual: idv/identidade-visual.md
   - Planejamento:
       - Comunicação: planejamento/comunicacao.md
-      - Heatmap de horários: planejamento/horarios.md
-      - Tabela de conhecimentos: planejamento/conhecimentos.md
-      - Metodologias: planejamento/metodologias.md
       - Ferramentas: planejamento/ferramentas.md
-      - Arquitetura: planejamento/arquitetura.md
-      - EAP: planejamento/eap.md
+      - Heatmap de horários: planejamento/horarios.md
+      - Tabela de Conhecimentos: planejamento/conhecimentos.md
       - Plano de Custos: planejamento/custos.md
       - Plano de Riscos: planejamento/riscos.md
       - Plano de Qualidade: planejamento/qualidade.md
+  - Produto:
+      - Lean Inception: produto/lean-inception.md
+      - Documento de Identidade Visual: idv/identidade-visual.md
+      - Planejado X Realizado: produto/planejado-realizado.md
+  - Documentos do Projeto:
+      - Arquitetura: planejamento/arquitetura.md
+      - Metodologias: planejamento/metodologias.md
+      - EAP: planejamento/eap.md
   - Sprints:
       - Sprint 0:
           - Review: sprints/sprint0/review.md
           - Sprint: sprints/sprint0/sprint.md
-
   - Guia de contribuição:
-      - Código de conduta: guia-de-contribuicao/codigo-de-conduta.md
-      - Politica de commits: guia-de-contribuicao/politica-de-commits.md
-      - Politica de branches: guia-de-contribuicao/politica-de-branch.md
+      - Código de Conduta: guia-de-contribuicao/codigo-de-conduta.md
+      - Politica de Commits: guia-de-contribuicao/politica-de-commits.md
+      - Politica de Branches: guia-de-contribuicao/politica-de-branch.md
   - Manual de instalação:
       - Service: manual-de-instalacao/service.md
       - Front: manual-de-instalacao/front.md

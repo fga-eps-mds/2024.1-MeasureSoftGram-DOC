@@ -55,6 +55,20 @@
 
 ![Diagrama Arquitetural](../assets/images/diagrama_arquitetura.png)
 
+## Diagrama de Implantação
+Um diagrama de implantação especifica os construtos que podem ser usados para definir a arquitetura de execução de sistemas e a atribuição de artefatos de software aos elementos do sistema.Para descrever um site, por exemplo, um diagrama de implantação mostraria quais componentes de hardware ("nós") existem (por exemplo, um servidor web, um servidor de aplicação e um servidor de banco de dados), quais componentes de software ("artefatos") rodam em cada nó (por exemplo, aplicação web, banco de dados) e como as diferentes peças estão conectadas (por exemplo, HTTP, GRPC).
+
+Os nós aparecem como caixas tridimensionais, e os componentes alocados a cada nó aparecem como retângulos dentro das caixas. Os nós podem ter subnós, que aparecem como caixas aninhadas. Um único nó em um diagrama de implantação pode representar conceitualmente vários nós físicos, como um cluster de servidores de banco de dados.
+
+Existem dois tipos de nós:
+
+- **Nó de Dispositivo (device)** 
+- **Nó de Ambiente de Execução (execution environment)**
+
+Os nós de dispositivo são recursos físicos de computação com memória de processamento e serviços para executar software, como computadores típicos ou telefones celulares. Um nó de ambiente de execução é um recurso de computação de software que roda dentro de um nó externo e que, por sua vez, fornece um serviço para hospedar e executar outros elementos de software executáveis.
+
+![Diagrama de Implantação](../assets/images/diagrama_implantacao.png)
+
 ## Diagrama de Pacotes
 
 ### Web
@@ -106,7 +120,7 @@
 |     Prazo     | O prazo é até o final do semestre 2024.1 (29/09/2024) da Universidade de Brasília                                |
 
 
-## Diagrama de Estados
+## Diagrama Entidade-Relacionamento
 
 ### Introdução
 
@@ -114,11 +128,10 @@
 
 <p align = "justify"> &emsp;&emsp; No cerne de um DER estão as entidades, que são objetos do mundo real ou conceitual que possuem atributos e características distintas. Os relacionamentos indicam as interações e conexões entre essas entidades, proporcionando uma compreensão clara dos fluxos de dados e informações dentro de um sistema. O DER não apenas representa as entidades e seus relacionamentos, mas também os atributos associados a cada entidade e como esses atributos se relacionam entre si. Essa representação gráfica facilita a comunicação entre as partes interessadas, permitindo uma compreensão abrangente e uma base sólida para o desenvolvimento e otimização do sistema. </p>
 
-## Diagrama Entidade-Relacionamento
 
 <p align = "justify"> &emsp;&emsp; O Diagrama Entidade-Relacionamento do projeto MeasureSoftGram foi criado automaticamente utilizando a coleção do *django-extensions*, usando o comando *graph-models*, essa ferramenta cria um diagrama do banco de dados da aplicação, como a imagem abaixo: </p>
 
-![models](./assets/diagrama_banco.png)
+![Diagrama de Implantação](../assets/images/diagrama_banco.png)
 
 ## Referências
 
@@ -150,3 +163,5 @@
 |Data|Autor|Descrição|Versão|
 |:--:|:--:|:---:|:---:|
 |01/08/2024| Gabriel Moretti | Adicionando documento |1.0|
+|13/09/2024| Christian Siqueira | Atualizando o diagrama de banco de dados |1.1|
+|13/09/2024| Christian Siqueira | Adicioanndo diagrama de implantação |1.2|

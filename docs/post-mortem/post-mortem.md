@@ -1,10 +1,10 @@
 # Introdução
 
-O post mortem é uma análise final de um projeto após sua conclusão. O objetivo é revisar os sucessos, desafios, lições aprendidas e identificar pontos pendentes que podem ser desenvolvidos em iterações futuras. No contexto acadêmico, ele também serve para fornecer uma base sólida para que futuros estudantes ou equipes possam continuar o trabalho, evitando a repetição de erros e aprimorando o desenvolvimento.
+O _post mortem_ é uma análise final de um projeto após sua conclusão. O objetivo é revisar os sucessos, desafios, lições aprendidas e identificar pontos pendentes que podem ser desenvolvidos em iterações futuras. No contexto acadêmico, ele também serve para fornecer uma base sólida para que futuros estudantes ou equipes possam continuar o trabalho, evitando a repetição de erros e aprimorando o desenvolvimento.
 
 # Análise da equipe
 
-A equipe, no geral, se sentiu bastante desafiada com a proposta diferente do projeto. A maioria estava acostumada a trabalhar em projetos mais tradicionais, como sistemas de CRUD, onde as operações são claras e diretas. No entanto, com o MeasureSoftGram, a ideia de coletar medidas de repositórios e dados específicos, e não apenas gerenciar registros, trouxe uma nova dinâmica para o desenvolvimento.
+A equipe, no geral, se sentiu bastante desafiada com a proposta diferente do projeto. A maioria estava acostumada a trabalhar em projetos mais tradicionais, como sistemas de CRUD, onde as operações são claras e diretas. No entanto, com o MeasureSoftwareGram, a ideia de coletar medidas de repositórios e dados específicos, e não apenas gerenciar registros, trouxe uma nova dinâmica para o desenvolvimento.
 
 # Pontos Pendentes
 

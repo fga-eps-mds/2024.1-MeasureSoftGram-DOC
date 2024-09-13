@@ -41,5 +41,6 @@ nav:
       - Service: manual-de-instalacao/service.md
       - Front: manual-de-instalacao/front.md
       - Action: manual-de-instalacao/action.md
+      - CLI: manual-de-instalacao/cli.md
 
   - Post-Mortem: post-mortem/post-mortem.md

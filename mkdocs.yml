@@ -39,3 +39,5 @@ nav:
   - Manual de instalação:
       - Service: manual-de-instalacao/service.md
       - Front: manual-de-instalacao/front.md
+
+  - Post-Mortem: post-mortem/post-mortem.md

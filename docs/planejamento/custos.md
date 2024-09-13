@@ -2,7 +2,7 @@
 
 ## Introdução
 
-É fundamental para um projeto ter um plano de custos bem definido. Um plano de custos claro e eficiente permite representar os gastos previstos do projeto, possibilitando que o cliente avalie se o projeto cabe em seu orçamento. Além disso, tal plano detalha onde cada quantia será investida e em qual momento ocorrerão as demandas orçamentárias, facilitando a gestão financeira e a tomada de decisões.
+É fundamental para um projeto ter um plano de custos bem definido. Um plano de custos claro e eficiente permite representar os gastos previstos do projeto, possibilitando que o cliente avalie se o projeto cabe em seu orçamento. Além disso, tal plano detalha onde cada quantia será investida e em qual momento ocorrerão as demandas orçamentárias, facilitando a gestão financeira e a tomada de decisões. [<a href=./#referencias-bibliograficas>1</a>]
 
 ## Estimativa de custos
 
@@ -13,9 +13,9 @@ Para estimar os custos referentes a infraestrutura, dois elementos forma levados
 
 #### Energia Elétrica
 
-De acordo com a Neoenergia, fornecedora de energia elétrica do Distrito Federal, a tarifa residencial para um quilowatt-hora (kWh) é de aproximadamente R$ 0,77.
+De acordo com a Neoenergia, fornecedora de energia elétrica do Distrito Federal, a tarifa residencial para um quilowatt-hora (kWh) é de aproximadamente R$ 0,77. [<a href=./#referencias-bibliograficas>2</a>]
 
-Assumindo que um computador ligado por uma hora, todos os dias, consome 5 kWh por mês. Para este projeto, em que cada membro irá trabalhar em média duas horas por dia, o custo com energia elétrica ficará em torno de R$ 1,79 por semana, para cada membro da equipe.
+Assumindo que um computador ligado por uma hora, todos os dias, consome 5 kWh por mês [<a href=./#referencias-bibliograficas>3</a>]. Para este projeto, em que cada membro irá trabalhar em média duas horas por dia, o custo com energia elétrica ficará em torno de R$ 1,79 por semana, para cada membro da equipe.
 
 - Consumo médio de um computador por hora: 5 kWh ÷ 30 dias = 0,167
 - Consumo de um computador neste projeto por uma semana: 7 dias x 2 horas x 0,167 = 2,33 kWh
@@ -39,26 +39,13 @@ Tendo em mente que os gastos com equipamentos só serão realizados uma vez, par
 
 ### Pessoa
 
-Para estimar o gasto com pessoas, foi considerado o valor anual médio de R$ 19.766,00 para um estudante de universidade federal, esse valor foi encontrado a partir de um estudo feito em 2022. Com isso temos:
+Para estimar o gasto com pessoas, foi considerado o valor anual médio de R$ 19.766,00 para um estudante de universidade federal, esse valor foi encontrado a partir de um estudo feito em 2022 analisando dados do ano de 2019 [<a href=./#referencias-bibliograficas>4</a>]. Levando em consideração a inflação do ano de 2024, este valor seria equivalente hoje a R$ 31.944,32. Assumindo que um estudante universitário cursa em média 40 créditos ao ano, temos:
 
-- Semanas letivas por ano: 2 semestres x 4 meses x 4 semanas = 32 semanas
-- Custo de um estudante universitário por semana: R$ 19.766,00 / 32 semanas = **R$ 617,69**
-
-## Estimativa Total
-
-Como os gastos com infraestrutura e pessoas serão recorrentes, podemos realizar os seguintes cálculos:
-
-- Gasto com Internet semanalmente por membro: R$ 1,94
-- Gasto com Energia Elétrica semanalmente por membro: R$ 1,79
-- Gasto com um Estudante Universitário semanalmente: R$ 617,69
-- Gasto por membro do grupo semanalmente: R$ 1,94 + R$ 1,79 + R$ 617,69 = R$ 621,42
-- Gasto com 10 membros do grupo semanalmente: R$ 621,42 X 10 = **R$ 6.214,20**
-
-Assumindo 16 semanas de desenvolvimento do projeto temos:
-
-- Gasto com Infraestrutura e Pessoas: R$ 6.214,20 x 16 semanas = R$ 99.427,20
-- Gasto com Equipamentos: R$ 25.183,90
-- Gasto total do projeto: 25.183,90 +  R$ 99.427,20 = **R$ 124.611,10**
+- Custo por crédito: R$ 31.944,32 / 40 = R$ 798,61
+- Quantidade de créditos de EPS: 4
+- Custo de um aluno da disciplina de EPS: R$ 798,61 x 4 = R$ 3.194,43
+- Quantidade de Semanas no Projeto: 17
+- Custo por semana: R$ 3.194,43 / 17 semanas = **R$ 187,91**
 
 ## Planilha de custos
 
@@ -66,8 +53,17 @@ Todos os cálculos realizados foram documentados na seguinte planilha:
 
 <iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1F-C_GpFWzMUNv7hoE89GK0adVZlp3T7t5v96rYjhEpw/edit?gid=0#gid=0"></iframe>
 
-## Referências Bibliográficas
+Com isso, obtemos um custo total de **R$ 61.430,93** para o projeto.
 
+## Agile Earned Value Management (AgileEVM)
+
+A técnica de Earned Value Management (EVM) é um método para integrar escopo, custo e tempo [<a href=./#referencias-bibliograficas>5</a>]. O EVM assume um determinado escopo, para a partir dele definir o custo e tempo, portanto uma abordagem que atende melhor o contexto de projetos ágeis é o Agile Earned Value Management (AgileEVM), uma versão adaptada do EVM tradicional, porém utilizando métricas do Scrum [<a href=./#referencias-bibliograficas>6</a>].
+
+As tabelas do contendo todos os cálculos e valores utilizados para gerar o AgileEVM está disponível abaixo.
+
+<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/1tcyKBuUES50fDaddEJEe1krEmYhTU_qx_1XLjk22ZBQ/edit?gid=518402925#gid=518402925"></iframe>
+
+## Referências Bibliográficas
 > [1] Plano de gerenciamento de custos: como os CFOs devem atuar?. Disponível em: https://www.concur.com.br/blog/article/plano-de-gerenciamento-de-custos. Acesso em: 01 de agosto de 2024
 
 > [2] Composição Tarifária. Disponível em: https://www.neoenergia.com/web/brasilia/sua-casa/composicao-tarifarias. Acesso em: 01 de agosto de 2024
@@ -75,3 +71,7 @@ Todos os cálculos realizados foram documentados na seguinte planilha:
 > [3] Dicas para Economizar Energia ao Usar o Computador. Disponível em: https://www.mpgo.mp.br/portal/conteudo/dicas-para-economia-de-energia-ao-usar-o-computador. Acesso em: 01 de agosto de 2024
 
 > [4] Bielschowsky, Carlos Eduardo, e Nelson Cardoso Amaral. “O CUSTO DO ALUNO DAS 2.537 INSTITUIÇÕES DE EDUCAÇÃO SUPERIOR BRASILEIRAS: CAI UM MITO?” Educação & Sociedade, vol. 43, 2022, p. e243866. DOI.org (Crossref), https://doi.org/10.1590/es.243866.
+
+> [5] “Guide to the Project Management Body of Knowledge - PMBOK® Guide 2003 Edition”, Project Management Institute, Pennsylvania, 2003.
+
+> [6] T. Sulaiman, B. Barton, e T. Blackburn, “AgileEVM - Earned Value Management in Scrum Projects”, AGILE 2006 (AGILE’06).

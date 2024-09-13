@@ -13,12 +13,12 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento:
+  - Plano e Monitoramento:
       - Comunicação: planejamento/comunicacao.md
       - Ferramentas: planejamento/ferramentas.md
       - Heatmap de horários: planejamento/horarios.md
       - Tabela de Conhecimentos: planejamento/conhecimentos.md
-      - Plano de Custos: planejamento/custos.md
+      - Custos: planejamento/custos.md
       - Plano de Riscos: planejamento/riscos.md
       - Plano de Qualidade: planejamento/qualidade.md
   - Produto:

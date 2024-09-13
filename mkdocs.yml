@@ -36,3 +36,6 @@ nav:
       - Código de conduta: guia-de-contribuicao/codigo-de-conduta.md
       - Politica de commits: guia-de-contribuicao/politica-de-commits.md
       - Politica de branches: guia-de-contribuicao/politica-de-branch.md
+  - Manual de instalação:
+      - Service: manual-de-instalacao/service.md
+      - Front: manual-de-instalacao/front.md

@@ -9,12 +9,13 @@ theme:
   logo: "assets/logo.svg"
   favicon: "assets/logo.svg"
   palette:
-    primary: black
+    primary: blue
 
 nav:
   - Início: index.md
   - Produto:
       - Lean Inception: produto/lean-inception.md
+      - Documento de identidade visual: idv/identidade-visual.md
   - Planejamento:
       - Comunicação: planejamento/comunicacao.md
       - Heatmap de horários: planejamento/horarios.md

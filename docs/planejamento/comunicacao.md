@@ -48,18 +48,21 @@ Planejamento e Retrospectiva de Sprint: Quinta-feira às 20:15;
         <td>Reunião</td>
         <td>Frequência</td>
         <td>Meio</td>
+        <td>Dia</td>
         <td>Horário</td>
     </tr>
     <tr>
         <td> Planejamento e retrospectiva de sprint</td>
         <td> Semanal </td>
         <td> Discord</td>
+        <td>Quarta-Feira</td>
         <td>20:15 às 22h</td>
     </tr>
     <tr>
         <td>Alinhamento semanal da equipe</td>
         <td> Semanal (sob demanda) </td>
         <td> Discord</td>
+        <td>Terça-Feira</td>
         <td>20:15 às 22h</td>
     </tr>
 </table>
@@ -71,20 +74,23 @@ Planejamento e Retrospectiva de Sprint: Quinta-feira às 20:15;
     <tr>
         <td>Reunião</td>
         <td>Frequência</td>
+        <td>Dia</td>
         <td>Meio</td>
         <td>Horário</td>
     </tr>
     <tr>
-        <td> Planejamento e retrospectiva de sprint</td>
+        <td> Reunião de revisão da sprint</td>
         <td> Semanal </td>
         <td> Discord</td>
+        <td>Quarta-Feira</td>
         <td>20:15 às 22h</td>
     </tr>
     <tr>
-        <td>Alinhamento semanal da equipe</td>
+        <td>Alinhamento rápido com o cliente</td>
         <td> Semanal (sob demanda) </td>
-        <td> Discord</td>
-        <td>20:15 às 22h</td>
+        <td>Discord</td>
+        <td>Terças e Quintas</td>
+        <td>14 às 16h</td>
     </tr>
 </table>
 

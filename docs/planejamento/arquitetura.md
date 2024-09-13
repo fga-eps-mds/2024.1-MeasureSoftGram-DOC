@@ -53,7 +53,7 @@
 
 ## Diagrama Arquitetural
 
-![Diagrama Arquitetural](../assets/images/diagrama_arquitetura.png)
+![Diagrama Arquitetural](../assets/images/diagrama-ms.png)
 
 ## Diagrama de Implantação
 Um diagrama de implantação especifica os construtos que podem ser usados para definir a arquitetura de execução de sistemas e a atribuição de artefatos de software aos elementos do sistema.Para descrever um site, por exemplo, um diagrama de implantação mostraria quais componentes de hardware ("nós") existem (por exemplo, um servidor web, um servidor de aplicação e um servidor de banco de dados), quais componentes de software ("artefatos") rodam em cada nó (por exemplo, aplicação web, banco de dados) e como as diferentes peças estão conectadas (por exemplo, HTTP, GRPC).
@@ -165,3 +165,4 @@ Os nós de dispositivo são recursos físicos de computação com memória de pr
 |01/08/2024| Gabriel Moretti | Adicionando documento |1.0|
 |13/09/2024| Christian Siqueira | Atualizando o diagrama de banco de dados |1.1|
 |13/09/2024| Christian Siqueira | Adicioanndo diagrama de implantação |1.2|
+|13/09/2024| Christian Siqueira | Atualizando o diagrama de arquitetura|1.3|

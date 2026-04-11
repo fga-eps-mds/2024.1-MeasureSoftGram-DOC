@@ -2,7 +2,7 @@
 
 A documentação é lançada através do Github Pages e pode ser acessada no link abaixo:
 
-https://fga-eps-mds.github.io/2024.1-MeasureSoftGram-DOC/
+https://fga-eps-mds.github.io/2026.1-MeasureSoftGram-DOC/
 
 
 ## Repositórios
@@ -23,6 +23,12 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
+        <td align="center">
+            <a href="https://github.com/DaviPierre">
+                <img style="border-radius: 50%;" src="https://github.com/DaviPierre.png" width="150px;"/>
+                <h5 class="text-center">Davi Gonçalves Akegawa Pierre</h5>
+            </a>
+        </td>
         <td align="center">
             <a href="https://github.com/DaniloNavesS ">
                 <img style="border-radius: 50%;" src="https://github.com/DaniloNavesS.png" width="150px;"/>
@@ -72,14 +78,14 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
                 <h5 class="text-center">João Pedro Anacleto Ferreira Machado </h5>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/luciano-freitas-melo">
                 <img style="border-radius: 50%;" src="https://github.com/luciano-freitas-melo.png" width="150px;"/>
                 <h5 class="text-center">Luciano de Freitas Melo</h5>
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <a href="https://github.com/luishenrrique">
                 <img style="border-radius: 50%;" src="https://github.com/luishenrrique.png" width="150px;"/>
@@ -92,8 +98,6 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
                 <h5 class="text-center">Márcio Henrique de sousa costa</h5>
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/murilopbs">
                 <img style="border-radius: 50%;" src="https://github.com/murilopbs.png" width="150px;"/>
@@ -113,7 +117,6 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
             </a>
         </td>
     </tr>
-
 </table>
 
 </center>

@@ -137,6 +137,7 @@ make action-[nome-da-pipeline]
 
 ## Versionamento
 
-| Versão | Data       | Modificação          | Autor                          |
-|--------|------------|----------------------|--------------------------------|
-| 1.0    | 12/04/2026 | Criação do documento | João Antonio e Márcio Henrique |
+| Versao | Data       | Descricao            | Autor                                    | Revisor |
+|--------|------------|----------------------|------------------------------------------|---------|
+| 1.0    | 12/04/2026 | Criação do documento | [João Antonio](https://github.com/i-JSS) |         |
+

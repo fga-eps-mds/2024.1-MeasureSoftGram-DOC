@@ -44,3 +44,6 @@ nav:
       - CLI: manual-de-instalacao/cli.md
 
   - Post-Mortem: post-mortem/post-mortem.md
+    
+  - Onboarding:
+      - Action: onboarding/actionLocal.md

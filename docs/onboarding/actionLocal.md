@@ -148,6 +148,12 @@ make action-[nome-da-pipeline]
 
 > **Exemplo:** `make action-msgram` executaria a pipeline chamada `msgram.yml`.
 
+## Formulario de Entrega da Release
+
+Preencha o formulario de validacao da release neste link:
+
+https://docs.google.com/forms/d/e/1FAIpQLSczE17X6JWlXLzCLAfMmKi0jpMGQuWmUxXdaS6dez6lL1OydQ/viewform?usp=publish-editor
+
 
 ## Versionamento
 
@@ -155,4 +161,7 @@ make action-[nome-da-pipeline]
 |--------|------------|---------------------------------|------------------------------------------|---------|
 | 1.0    | 12/04/2026 | Criação do documento            | [João Antonio](https://github.com/i-JSS) |     [Nicollas Gabriel](https://github.com/Nicollaxs)    |
 | 1.1     | 13/04/2026 | Adicona JSON no cadastro de goal | [João Antonio](https://github.com/i-JSS)                                         |      [Nicollas Gabriel](https://github.com/Nicollaxs)    |
+| 1.2     | 13/04/2026 | Adiciona formulário de entrega da release | [Nicollas Gabriel](https://github.com/Nicollaxs) |  |
+
+
 

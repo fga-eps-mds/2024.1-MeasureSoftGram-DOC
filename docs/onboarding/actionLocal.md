@@ -118,6 +118,20 @@ Também é necessário adicionar o repositório ao Service e vinculá-lo a uma r
 
 ![Vinculando à release](../assets/images/actionLocal/img_4.png)
 
+> Observação - quando for cadastrar um **Goal** é importante utilizar o json no seguinte formato:
+
+```json
+{
+   "changes": [
+      {
+         "characteristic_key": "string",
+         "delta": 0
+      }
+   ],
+   "allow_dynamic": false
+}
+```
+
 ---
 
 ## Executando as Pipelines
@@ -137,7 +151,8 @@ make action-[nome-da-pipeline]
 
 ## Versionamento
 
-| Versao | Data       | Descricao            | Autor                                    | Revisor |
-|--------|------------|----------------------|------------------------------------------|---------|
-| 1.0    | 12/04/2026 | Criação do documento | [João Antonio](https://github.com/i-JSS) |         |
+| Versao | Data       | Descricao                       | Autor                                    | Revisor |
+|--------|------------|---------------------------------|------------------------------------------|---------|
+| 1.0    | 12/04/2026 | Criação do documento            | [João Antonio](https://github.com/i-JSS) |         |
+| 1.1     | 13/04/2026 | Adicona JSON no cadastro de goal | [João Antonio](https://github.com/i-JSS)                                         |         |
 

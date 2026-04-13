@@ -153,6 +153,6 @@ make action-[nome-da-pipeline]
 
 | Versao | Data       | Descricao                       | Autor                                    | Revisor |
 |--------|------------|---------------------------------|------------------------------------------|---------|
-| 1.0    | 12/04/2026 | Criação do documento            | [João Antonio](https://github.com/i-JSS) |         |
-| 1.1     | 13/04/2026 | Adicona JSON no cadastro de goal | [João Antonio](https://github.com/i-JSS)                                         |         |
+| 1.0    | 12/04/2026 | Criação do documento            | [João Antonio](https://github.com/i-JSS) |     [Nicollas Gabriel](https://github.com/Nicollaxs)    |
+| 1.1     | 13/04/2026 | Adicona JSON no cadastro de goal | [João Antonio](https://github.com/i-JSS)                                         |      [Nicollas Gabriel](https://github.com/Nicollaxs)    |
 

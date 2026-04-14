@@ -13,10 +13,10 @@ O mapa de calor da equipe pode ser visualizada abaixo, juntamente com a sua resp
 </div>
 
 <div align="center">
-  <img src="https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap_Legenda.png" alt="Cores do Heatmap">
+  <img src="https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap_Legenda.png" alt="Cores do Heatmap">
   <p>Figura 1 - Cores do Heatmap</p>
 
-  <img src="https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap.png" alt="Heatmap">
+  <img src="https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-DOC/raw/main/docs/planejamento/assets/HeatMap.png" alt="Heatmap">
   <p>Figura 2 - Heatmap</p>
 
 </div>

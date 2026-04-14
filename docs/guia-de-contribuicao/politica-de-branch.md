@@ -185,6 +185,6 @@ hotfix/v2.4.3
 
 ## Histórico de Versão
 
-|    Data    |                      Autor                      |            Descrição             | Versão |
-| :--------: | :---------------------------------------------: | :------------------------------: | :----: |
-| 30/07/2024 | [Cícero Fernandes](https://github.com/ciceroff) | Adicionando politica de branches |  1.0   |
+|   Versao   | Data       | Descricao                        |                      Autor                       | Revisor |
+|  --------  |------------|----------------------------------|    ------------------------------------------    |---------|
+|    1.0     | 30/07/2024 | Adicionando politica de branches | [Cícero Fernandes](https://github.com/ciceroff)  |[João Antonio](https://github.com/i-JSS) |   

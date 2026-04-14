@@ -3,8 +3,8 @@
 Configure as variáveis de ambiente transferindo o conteúdo do arquivo `.env.example` para o arquivo `.env`:
 
 ```bash
-SERVICE_URL=http://localhost:8080
-NEXT_PUBLIC_API_URL=http://localhost:8080
+SERVICE_URL=http://localhost:8080/api/v1
+NEXT_PUBLIC_API_URL=http://localhost:8080/api/v1
 LOGIN_REDIRECT_URL=http://127.0.0.1:3000
 GITHUB_CLIENT_ID=
 GITHUB_SECRET=
@@ -16,13 +16,5 @@ GITHUB_SECRET=
 Utilize o docker para rodar:
 
 ```bash
-docker-compose up
-```
-
-Ou rode manualmente:
-
-```bash
-yarn
-
-yarn dev
+docker-compose up --build
 ```

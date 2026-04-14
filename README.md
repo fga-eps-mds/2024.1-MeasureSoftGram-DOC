@@ -1,8 +1,10 @@
-# Documentação do MeasureSoftwareGram - 2026.1
+# MeasureSoftGram
 
-A documentação é lançada através do Github Pages e pode ser acessada no link abaixo:
-
-https://fga-eps-mds.github.io/2026.1-MeasureSoftGram-DOC/
+<div align="justify">&emsp;&emsp;
+Esta wiki está destinada ao projeto MeasureSoftGram, contendo toda a documentação relativa à disciplina de 
+Engenharia de Produto de Software (EPS) realizada durante o semestre de 2026.1 em continuação ao semestre 2024.1, 
+e ministrada pelo professor Hilmer Rodrigues Neri da Universidade de Brasília - Gama.
+</div>
 
 
 ## Repositórios
@@ -13,8 +15,6 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 * [2026.1-MeasureSoftGram-Front](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Front)
 * [2026.1-MeasureSoftGram-Action](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Action)
 * [2026.1-MeasureSoftGram-CLI](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-CLI)
-* [2026-1-MeasureSoftGram-Doc](https://github.com/fga-eps-mds/2026-1-MeasureSoftGram-Doc)
-
 
 ## Time de Desenvolvimento de 2026
 
@@ -24,22 +24,18 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-            <a href="https://github.com/DaviPierre">
-                <img style="border-radius: 50%;" src="https://github.com/DaviPierre.png" width="150px;"/>
-                <h5 class="text-center">Davi Gonçalves Akegawa Pierre</h5>
-            </a>
-        </td>
-        <td align="center">
             <a href="https://github.com/DaniloNavesS ">
                 <img style="border-radius: 50%;" src="https://github.com/DaniloNavesS.png" width="150px;"/>
                 <h5 class="text-center">Danilo Naves do Nascimento</h5>
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/lipeaaraujo">
-                <img style="border-radius: 50%;" src="https://github.com/lipeaaraujo.png" width="150px;"/>
-                <h5 class="text-center">Felipe Amorim de Araújo</h5>
+            <a href="https://github.com/DaviPierre">
+                <img style="border-radius: 50%;" src="https://github.com/DaviPierre.png" width="150px;"/>
+                <h5 class="text-center">Davi Gonçalves Akegawa Pierre</h5>
             </a>
+        </td>
+        <td align="center">
         </td>
         <td align="center">
             <a href="https://github.com/giovanniacg">
@@ -120,13 +116,3 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 </table>
 
 </center>
-
-## Execução Local
-
-Caso queira executar a documentação localmente, precisará instalar:
-
-* Python3
-* Mkdocs
-* Mkdocs-Material
-
-Ao instalar ambos, utilize `mkdocs serve` para ver a página localmente.

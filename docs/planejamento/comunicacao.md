@@ -92,9 +92,6 @@ OBS.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamen
 
 ## Histórico de Versão
 
-|Data|Autor|Descrição|Versão|
-|:--:|:--:|:---:|:---:|
-|01/08/2024| Adne Moretti | Adicionando planejamento da comunicação |0.1|
 
 | Versao | Data       | Descricao                               | Autor                                    | Revisor                                  |
 |--------|------------|-----------------------------------------|------------------------------------------|------------------------------------------|

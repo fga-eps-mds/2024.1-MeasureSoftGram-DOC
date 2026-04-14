@@ -28,11 +28,6 @@ O seguinte documento apresenta a forma em que a equipe se organizou e estruturou
         <td style="vertical-align: middle;">Whatsapp</td>
         <td style="vertical-align: middle;">Ferramenta utilizada para comunicação assíncrona interna entre os membros da equipe</td>
     </tr>
-    <tr>
-        <td><img src="../../assets/images/logo_parabol.png" width="100px"/></td>
-            <td style="vertical-align: middle;">Parabol</td>
-            <td style="vertical-align: middle;">Ferramenta para realização cerimônias SCRUM</td>
-    </tr>
 </table>
 
 
@@ -41,7 +36,6 @@ O seguinte documento apresenta a forma em que a equipe se organizou e estruturou
 As sprints tem duração de uma semana, por isso, as reuniões foram marcadas com recorrência semanal para alinhamento; 
 
 ### 3.1. Reuniões internas
-Planejamento e Retrospectiva de Sprint: Quinta-feira às 20:15; 
 
 <table>
     <tr>
@@ -55,49 +49,54 @@ Planejamento e Retrospectiva de Sprint: Quinta-feira às 20:15;
         <td> Planejamento e retrospectiva de sprint</td>
         <td> Semanal </td>
         <td> Discord</td>
-        <td>Quarta-Feira</td>
-        <td>20:15 às 22h</td>
-    </tr>
-    <tr>
-        <td>Alinhamento semanal da equipe</td>
-        <td> Semanal (sob demanda) </td>
-        <td> Discord</td>
-        <td>Terça-Feira</td>
-        <td>20:15 às 22h</td>
-    </tr>
-</table>
-
-
-### 3.2. Reuniões externas
-
-<table>
-    <tr>
-        <td>Reunião</td>
-        <td>Frequência</td>
-        <td>Dia</td>
-        <td>Meio</td>
-        <td>Horário</td>
+        <td>X</td>
+        <td>X</td>
     </tr>
     <tr>
         <td> Reunião de revisão da sprint</td>
         <td> Semanal </td>
         <td> Discord</td>
-        <td>Quarta-Feira</td>
-        <td>20:15 às 22h</td>
-    </tr>
-    <tr>
-        <td>Alinhamento rápido com o cliente</td>
-        <td> Semanal (sob demanda) </td>
-        <td>Discord</td>
-        <td>Terças e Quintas</td>
-        <td>14 às 16h</td>
+        <td>X</td>
+        <td>X</td>
     </tr>
 </table>
 
-OBS.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamente durante as aulas, que ocorrem nas terças e quintas das 14 às 16h na Faculdade do Gama - UnB. Tendo em vista que o P.O também é professor da disciplina, também são realizados alinhamentos no horário da aula. Além disso, foi definida a comunicação assíncrona para comunicações pontuais e validações de histórias de usuário das sprints
+
+### 3.2. Reuniões com o cliente
+
+<table>
+    <tr>
+        <td>Reunião</td>
+        <td>Frequência</td>
+        <td>Meio</td>
+        <td>Dia</td>
+        <td>Horário</td>
+    </tr>
+    <tr>
+        <td>Alinhamento presencial com o cliente</td>
+        <td> Semanal </td>
+        <td>Presencialmente</td>
+        <td>Segunda-Feira</td>
+        <td>11:00 às 12:00</td>
+    </tr>
+    <tr>
+        <td>Alinhamento remoto com o cliente</td>
+        <td> Semanal (sob demanda) </td>
+        <td>Teams (gravado)</td>
+        <td>Quarta-Feira</td>
+        <td>20:00 às 21:00</td>
+    </tr>
+</table>
+
+OBS.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamente durante as aulas, que ocorrem nas **segundas das 10 às 14h** na Faculdade do Gama - UnB. Tendo em vista que o P.O também é professor da disciplina, também são realizados alinhamentos no horário da aula. Além disso, foi definida a comunicação assíncrona para comunicações pontuais e validações de histórias de usuário das sprints
 
 ## Histórico de Versão
 
 |Data|Autor|Descrição|Versão|
 |:--:|:--:|:---:|:---:|
 |01/08/2024| Adne Moretti | Adicionando planejamento da comunicação |0.1|
+
+| Versao | Data       | Descricao                               | Autor                                    | Revisor                                  |
+|--------|------------|-----------------------------------------|------------------------------------------|------------------------------------------|
+| 1.0    | 01/08/2024 | Adicionando planejamento da comunicação | Adne Moretti                             | [João Antonio](https://github.com/i-JSS) |
+| 1.1    | 14/04/2026 | Ajusta reuniões com PO                  | [João Antonio](https://github.com/i-JSS) |                                          |    

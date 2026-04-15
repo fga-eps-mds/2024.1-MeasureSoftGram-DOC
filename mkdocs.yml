@@ -8,7 +8,7 @@ repo_url: "https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-DOC"
 theme:
   name: material
   language: pt-BR
-  logo: "assets/logo.svg"
+  logo: "assets/logo_branca.svg"
   favicon: "assets/logo.svg"
   features:
     - navigation.tabs
@@ -70,10 +70,11 @@ nav:
           - Metodologias de Clãs: planejamento/clas.md
           - Metodologias de Desenvolvimento: planejamento/metodologias.md
           - Tabela de Conhecimentos: planejamento/conhecimentos.md
+          - Lideranças Periódicas: planejamento/lideranca.md
       - Guia de contribuição:
           - Código de Conduta: guia-de-contribuicao/codigo-de-conduta.md
-          - Politica de Commits: guia-de-contribuicao/politica-de-commits.md
-          - Politica de Branches: guia-de-contribuicao/politica-de-branch.md
+          - Política de Commits: guia-de-contribuicao/politica-de-commits.md
+          - Política de Branches: guia-de-contribuicao/politica-de-branch.md
 #      - Custos:
 #      - EAP:
 #      - Lean Inception:

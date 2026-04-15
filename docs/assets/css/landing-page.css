@@ -1,12 +1,12 @@
-/* Paleta de Cores MeasureSoftGram */
+/* Paleta de Cores MeasureSoftGram — Guia de Identidade Visual Oficial */
 :root {
-    --cor-fundo: #eef4f6;             /* Azul-acinzentado claro */
-    --cor-texto-principal: #1d2b3a;   /* Azul-marinho escuro */
-    --cor-destaque: #1a7a8c;          /* Teal principal */
+    --cor-fundo: #F4F5F6;             /* Background oficial */
+    --cor-texto-principal: #2B4D6F;   /* Cor primária */
+    --cor-destaque: #5F7EA3;          /* Cor secundária */
     --cor-fundo-card: #ffffff;
-    --cor-sombra: rgba(26, 122, 140, 0.12);
-    --cor-sombra-hover: rgba(26, 122, 140, 0.28);
-    --cor-fundo-escuro: #1d2b3a;      /* Azul-marinho (header/footer) */
+    --cor-sombra: rgba(43, 77, 111, 0.12);
+    --cor-sombra-hover: rgba(43, 77, 111, 0.25);
+    --cor-fundo-escuro: #2B4D6F;      /* Primária no header/footer */
 }
 
 html, body {
@@ -44,10 +44,10 @@ body {
 }
 
 .logo {
-    /*max-width: 400px;*/
     height: auto;
     width: 60%;
 }
+
 .section {
     display: flex;
     justify-content: space-around;
@@ -154,8 +154,8 @@ h2 {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(26, 122, 140, 0.80);
-    color: white;
+    background-color: rgba(43, 77, 111, 0.85);
+    color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -204,7 +204,7 @@ h2 {
 
 .custom-footer {
     background-color: var(--cor-fundo-escuro);
-    color: var(--cor-fundo);
+    color: #F4F5F6;
     text-align: center;
     padding: 2rem 1rem;
     font-size: 0.9rem;

@@ -96,4 +96,4 @@ OBS.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamen
 | Versao | Data       | Descricao                               | Autor                                    | Revisor                                  |
 |--------|------------|-----------------------------------------|------------------------------------------|------------------------------------------|
 | 1.0    | 01/08/2024 | Adicionando planejamento da comunicação | Adne Moretti                             | [João Antonio](https://github.com/i-JSS) |
-| 1.1    | 14/04/2026 | Ajusta reuniões com PO                  | [João Antonio](https://github.com/i-JSS) |                                          |    
+| 1.1    | 14/04/2026 | Ajusta reuniões com PO                  | [João Antonio](https://github.com/i-JSS) |                                          |   

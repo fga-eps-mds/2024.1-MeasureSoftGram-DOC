@@ -1,12 +1,18 @@
 # Metodologias
 
 ## Introdução 
+
+<div align="justify">&emsp;&emsp;
 O presente documento apresenta metodologias para o desenvolvimento do projeto, com uma breve descrição dos itens utilizados.
+</div>
 
 ## Metodologias
 
 ### Scrum
+
+<div align="justify">&emsp;&emsp;
 O Scrum é um framework de gerência de equipes, em que os integrantes do desenvolvimento assumem uma abordagem proativa diante da complexidade e da incerteza que são inerentes aos projetos.
+</div>
 
 - Sprints: Prazo de trabalho fixo, em nosso projeto de uma semana, em que são desenvolvidos os incrementos do projeto
 - Planning: As reuniões de planing servem para a definição das metas da sprint
@@ -14,17 +20,26 @@ O Scrum é um framework de gerência de equipes, em que os integrantes do desenv
 - Product Backlog: O backlog de um produto consiste na lista de itens planejados e desenvolvidos pela equipe  
 
 ### XP
+
+<div align="justify">&emsp;&emsp;
 O Extreme Programming (XP) é uma metodologia que promove a colaboração, comunicação e adaptabilidade ao longo do ciclo de vida do desenvolvimento por meio de, entre outros aspectos, feedback rápido e entregas pequenas.
+</div>
 
 - Releases Pequenas: Esse aspecto proporciona a aceitação mais eficiente do cliente onde não é necessário grandes entregas para que o produto seja testado
 - Integração Contínua: A integração contínua consiste na integração frequente de novas funcionalidades ou melhorias no produto 
 - Planning Poker: Técnica utilizada para a mensuração de esforço esperado para determinado item a ser trabalhado 
 
 ### Kanban
+
+<div align="justify">&emsp;&emsp;
 O Kanban é uma metodologia que auxilia na visualização do fluxo de trabalho, permitindo identificar possíveis gargalos. Em nosso projeto, utilizamos a ferramenta Zenhub para gerenciar e visualizar as tarefas.
+</div>
 
 ### Lean Inception
+
+<div align="justify">&emsp;&emsp;
 A Lean Inception é um workshop colaborativo, em que o objeto é o alinhamento entre as partes sobre o Produto Mínimo Viável (MVP) a ser desenvolvido. As seguintes atividades compõem o método:
+</div>
 
 - Visão do produto: Define uma visão clara e compartilhada do produto.
 - É – Não é – Faz – Não faz: Esclarece as características do produto, identificando o que o produto é, o que não é, o que faz e o que não faz.
@@ -49,6 +64,6 @@ focando no mínimo necessário para validar o direcionamento do negócio.
 
 ## Histórico de Versão
 
-Data|Autor(es)|Descrição|Versão
-----|---------|--------------|--------
-01/08/2024 | Brenno Oliveira | Adição do documento | 1.0
+| Versao | Data       | Descricao           | Autor           | Revisor                                  |
+|--------|------------|---------------------|-----------------|------------------------------------------|
+| 1.0    | 01/08/2024 | Adição do documento | Brenno Oliveira | [João Antonio](https://github.com/i-JSS) |

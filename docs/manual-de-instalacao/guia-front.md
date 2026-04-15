@@ -1,4 +1,4 @@
-# Front
+# Manual de Uso - Front
 
 Configure as variáveis de ambiente transferindo o conteúdo do arquivo `.env.example` para o arquivo `.env`:
 

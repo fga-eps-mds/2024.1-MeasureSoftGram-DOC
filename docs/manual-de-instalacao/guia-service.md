@@ -1,4 +1,4 @@
-# Service
+# Manual de Uso - Service
 
 Configura as variáveis de ambiente do repositório. Existe um env-vars-example no projeto, é possível pegar o conteúdo dessa pasta e mover para uma pasta env-vars. Ou você pode criar manualmente a pasta `env-vars` e criar os seguintes arquivos dentro dela: `.service.env` e `.postgres.env`
 

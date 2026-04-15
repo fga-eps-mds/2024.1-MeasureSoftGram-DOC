@@ -1,4 +1,4 @@
-# CLI
+# Manual de Uso - CLI
 
 Faça download do pacote do MeasureSoftGram no PyPi através do comando:
 ```bash

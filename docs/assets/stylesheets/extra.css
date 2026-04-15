@@ -1,0 +1,23 @@
+[data-md-color-scheme="default"] {
+    --md-primary-fg-color:        #1d2b3a;
+    --md-primary-fg-color--light: #2a3f54;
+    --md-primary-fg-color--dark:  #111e29;
+    --md-primary-bg-color:        #ffffff;
+    --md-accent-fg-color:         #176b7a;  /* era #1a7a8c — agora mais azul */
+    --md-accent-fg-color--transparent: rgba(23, 107, 122, 0.1);
+    --md-default-fg-color:        #1d2b3a;
+    --md-default-bg-color:        #eef4f6;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color:        #176b7a;
+    --md-primary-fg-color--light: #1e8a9e;
+    --md-primary-fg-color--dark:  #0f4f5a;
+    --md-primary-bg-color:        #eef4f6;
+    --md-accent-fg-color:         #4db8cc;  /* claro p/ contrastar no fundo escuro */
+    --md-accent-fg-color--transparent: rgba(77, 184, 204, 0.1);
+    --md-default-fg-color:        #eef4f6;
+    --md-default-fg-color--light: #b0c4cc;
+    --md-default-fg-color--lighter: #7a9aa8;
+    --md-default-bg-color:        #1d2b3a;
+}

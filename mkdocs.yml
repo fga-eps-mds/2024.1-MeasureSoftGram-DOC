@@ -66,11 +66,10 @@ nav:
       - Equipe:
           - Comunicação: planejamento/comunicacao.md
           - Ferramentas: planejamento/ferramentas.md
-          - Heatmap de horários: planejamento/horarios.md
+          - Lideranças Rotativas: planejamento/lideranca.md
           - Metodologias de Clãs: planejamento/clas.md
           - Metodologias de Desenvolvimento: planejamento/metodologias.md
           - Tabela de Conhecimentos: planejamento/conhecimentos.md
-          - Lideranças Periódicas: planejamento/lideranca.md
       - Guia de contribuição:
           - Código de Conduta: guia-de-contribuicao/codigo-de-conduta.md
           - Política de Commits: guia-de-contribuicao/politica-de-commits.md

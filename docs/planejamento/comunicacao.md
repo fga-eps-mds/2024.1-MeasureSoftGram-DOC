@@ -37,30 +37,11 @@ As sprints tem duração de uma semana, por isso, as reuniões foram marcadas co
 
 ### 3.1. Reuniões internas
 
-<table>
-    <tr>
-        <td>Reunião</td>
-        <td>Frequência</td>
-        <td>Meio</td>
-        <td>Dia</td>
-        <td>Horário</td>
-    </tr>
-    <tr>
-        <td> Planejamento e retrospectiva de sprint</td>
-        <td> Semanal </td>
-        <td> Discord</td>
-        <td>X</td>
-        <td>X</td>
-    </tr>
-    <tr>
-        <td> Reunião de revisão da sprint</td>
-        <td> Semanal </td>
-        <td> Discord</td>
-        <td>X</td>
-        <td>X</td>
-    </tr>
-</table>
+| Reunião                     | Frequência | Meio    | Dia           | Horário |
+|-----------------------------|------------|---------|---------------|---------|
+| Review e Planning da sprint | Semanal    | Discord | Segunda-feira | 13:00   |
 
+> Obs.: Além dessas reuniões, cerimônias adicionais serão realizadas conforme a necessidade do clã, como constado na metodologia de Clãs.
 
 ### 3.2. Reuniões com o cliente
 
@@ -77,7 +58,7 @@ As sprints tem duração de uma semana, por isso, as reuniões foram marcadas co
         <td> Semanal </td>
         <td>Presencialmente</td>
         <td>Segunda-Feira</td>
-        <td>11:00 às 12:00</td>
+        <td>11:30 às 12:00</td>
     </tr>
     <tr>
         <td>Alinhamento remoto com o cliente</td>
@@ -88,7 +69,7 @@ As sprints tem duração de uma semana, por isso, as reuniões foram marcadas co
     </tr>
 </table>
 
-OBS.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamente durante as aulas, que ocorrem nas **segundas das 10 às 14h** na Faculdade do Gama - UnB. Tendo em vista que o P.O também é professor da disciplina, também são realizados alinhamentos no horário da aula. Além disso, foi definida a comunicação assíncrona para comunicações pontuais e validações de histórias de usuário das sprints
+> Obs.: Além das reuniões marcadas de forma remota, a equipe se alinha rapidamente durante as aulas, que ocorrem nas **segundas das 10 às 14h** na Faculdade do Gama - UnB. Tendo em vista que o P.O também é professor da disciplina, também são realizados alinhamentos no horário da aula. Além disso, foi definida a comunicação assíncrona para comunicações pontuais e validações de histórias de usuário das sprints
 
 ## Histórico de Versão
 

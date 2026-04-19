@@ -1,12 +1,9 @@
 # Plano de Custos
 
-Planilha de custos do projeto disponível em: [Custos do MeasureSoftGram](https://docs.google.com/spreadsheets/d/1vEGKl1ZxSeijZwuVfzDAaH6eT9NllpKnPJGDVQK7TP0/edit?usp=sharing)
+Planilha de custos do projeto disponível em [Custos de desenvolvimento do MeasureSoftGram}(https://docs.google.com/spreadsheets/d/1vEGKl1ZxSeijZwuVfzDAaH6eT9NllpKnPJGDVQK7TP0/edit?usp=sharing) nas páginas "Custos" e "Planejamento".
 
-<iframe
-src="https://docs.google.com/spreadsheets/d/1vEGKl1ZxSeijZwuVfzDAaH6eT9NllpKnPJGDVQK7TP0/edit?usp=sharing"
-width="200%"
-height="900">
-</iframe>
+
+<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSED4-5a6wIobEZoLeUEp9c_m33F4sDQ-nccbVYp-TnuJ3nGKN-yZmfib63sUS85PYEK291O26W79zz/pubhtml"></iframe>
 
 <center>
 

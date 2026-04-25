@@ -1,6 +1,6 @@
 # Plano de Custos
 
-Planilha de custos do projeto disponível em [Custos de desenvolvimento do MeasureSoftGram}(https://docs.google.com/spreadsheets/d/1vEGKl1ZxSeijZwuVfzDAaH6eT9NllpKnPJGDVQK7TP0/edit?usp=sharing) nas páginas "Custos" e "Planejamento".
+Planilha de custos do projeto disponível em [Custos de desenvolvimento do MeasureSoftGram](https://docs.google.com/spreadsheets/d/1vEGKl1ZxSeijZwuVfzDAaH6eT9NllpKnPJGDVQK7TP0/edit?usp=sharing) nas páginas "Custos" e "Planejamento".
 
 
 <iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSED4-5a6wIobEZoLeUEp9c_m33F4sDQ-nccbVYp-TnuJ3nGKN-yZmfib63sUS85PYEK291O26W79zz/pubhtml"></iframe>
@@ -49,10 +49,10 @@ Os custos de energia elétrica e internet foram calculados com base no consumo s
 
 | Item                               | Consumo por hora | Custo por semana |
 |------------------------------------|------------------|------------------|
-| Computador (energia)               | R$ 0,03          | R$ 0,41          |
-| Modem (energia)                    | R$ 0,01          | R$ 0,12          |
+| Computador (energia)               | R$ 0,03          | R$ 0,29          |
+| Modem (energia)                    | R$ 0,01          | R$ 0,08          |
 | Internet                           | -                | R$ 23,31         |
-| **Total (remoto por semana)**      | -                | **R$ 23,83**     |
+| **Total (remoto por semana)**      | -                | **R$ 23,68**     |
 
 <center>
 
@@ -63,22 +63,20 @@ Os custos de energia elétrica e internet foram calculados com base no consumo s
 ## Custo por Membro
 
 <div align="justify">&emsp;&emsp;
-O custo semanal por membro foi calculado somando o custo presencial na Universidade de Brasília (UnB) com o custo de desenvolvimento remoto. O custo por hora na UnB foi estimado em R$ 58,37, com base no custo médio anual por aluno em universidades federais de R$ 52.533,00 e uma carga horária anual de aproximadamente 900 horas cursadas. Considerando 14 horas semanais de atividades presenciais e 18 horas remotas, o custo total semanal por integrante é de R$ 257,31.
+O custo semanal por membro foi calculado somando o custo por cursar EPS na Universidade de Brasília (UnB) com o custo de desenvolvimento remoto. O custo por crédito foi de R$ 1.313,33, com base no custo médio anual por aluno em universidades federais de R$ 52.533,00 e uma carga horária anual de aproximadamente 40 créditos. Considerando 4 horas semanais de atividades presenciais e 10 horas remotas, o custo total semanal por integrante é de R$ 332,70.
 </div>
 
 | Descrição                         | Valor por semana |
 |-----------------------------------|------------------|
-| Custo presencial (UnB)            | R$ 233,48        |
+| Custo por cursar EPS (UnB)        | R$ 309,02        |
 | Custo remoto (energia + internet) | R$ 23,83         |
-| **Custo total por membro**        | **R$ 257,31**    |
+| **Custo total por membro**        | **R$ 332,70**    |
 
 <center>
 
 <p>Tabela 2 - Custo por Membro</p>
 
 </center>
-
-> Não foi acrescentado o custo da mão de obra.
 
 
 ## Histórico de Versão

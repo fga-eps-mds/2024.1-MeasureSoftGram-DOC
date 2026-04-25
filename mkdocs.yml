@@ -77,9 +77,9 @@ nav:
       - Planejamento:
           - Custos: planejamento/custos.md
           - AgileEVM: planejamento/agileEVM.md
-          - EAP: planejamento/eap.md
+          - Plano de Riscos: planejamento/riscos.md
+#      - EAP: planejamento/eap.md
 #      - Lean Inception:
-#      - Plano de Riscos:
 #      - Plano de Qualidade:
 
   - Produto:

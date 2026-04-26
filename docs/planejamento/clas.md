@@ -98,9 +98,9 @@ O **Clã Web** é o maior clã e é responsável pela camada de **apresentação
 
 ### Cerimônias da equipe
 
-| Reunião                     | Frequência | Meio    | Dia | Horário |
-|-----------------------------|------------|---------|-----|---------|
-| Review e Planning da sprint | Semanal    | Discord | -   | -       |
+| Reunião                     | Frequência | Meio    | Dia            | Horário        |
+|-----------------------------|------------|---------|----------------|----------------|
+| Review e Planning da sprint | Semanal    | Discord | Quarta-Feira   | 10:00 às 11:00 |
 
 ---
 
@@ -131,7 +131,8 @@ height="600px">
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição               | Autor                                      | Revisor |
-|--------|------------|-------------------------|--------------------------------------------|---------|
-| 1.0    | 16/04/2026 | Criação do Documento    | [João Antonio](https://github.com/i-JSS)  |         |
-| 1.1    | 16/04/2026 | Detalhamento dos Clãs e membros | [João Antonio](https://github.com/i-JSS) | |
+| Versão | Data       | Descrição                                                                  | Autor        | Revisor |
+|--------|------------|----------------------------------------|--------------------------------------------------|---------|
+| 1.0    | 16/04/2026 | Criação do Documento                   | [João Antonio](https://github.com/i-JSS)         |         |
+| 1.1    | 16/04/2026 | Detalhamento dos Clãs e membros        | [João Antonio](https://github.com/i-JSS)         |         |
+| 1.1    | 16/04/2026 | Review e Planning da sprint do Clã WEB | [João Antonio](https://github.com/luishenrrique) |         |

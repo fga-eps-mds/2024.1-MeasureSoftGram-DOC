@@ -50,9 +50,9 @@ O **Clã Action** é responsável pela camada de **ações e serviços de negóc
 
 ### Cerimônias da equipe
 
-| Reunião                     | Frequência | Meio    | Dia | Horário |
-|-----------------------------|------------|---------|-----|---------|
-| Review e Planning da sprint | Semanal    | Discord | -   | -       |
+| Reunião                     | Frequência | Meio    | Dia           | Horário        |
+|-----------------------------|------------|---------|---------------|----------------|
+| Review e Planning da sprint | Semanal    | Discord | Segunda-Feira | 20:00 às 21:00 |
 
 ---
 

@@ -15,6 +15,7 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 * [2026.1-MeasureSoftGram-Front](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Front)
 * [2026.1-MeasureSoftGram-Action](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Action)
 * [2026.1-MeasureSoftGram-CLI](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-CLI)
+* [2026.1-MeasureSoftGram-Parser](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Parser)
 
 ## Time de Desenvolvimento de 2026
 

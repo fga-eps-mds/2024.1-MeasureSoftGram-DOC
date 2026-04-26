@@ -8,7 +8,12 @@ No contexto do MeasureSoftGram 2026.1, a EAP foi elaborada no formato de MVP Can
 
 ## 2. EAP do Projeto
 
-[Abrir EAP completa](../assets/MVP%20MeasureSoftGram-2026-04-25-194944.svg){target="_blank"}
+<iframe
+  src="../../assets/eap-viewer.html"
+  width="100%"
+  height="520px"
+  style="border: 1px solid #e0e0e0; border-radius: 8px;">
+</iframe>
 
 ## 3. Descrição das Ondas e Sub-níveis
 

@@ -131,8 +131,8 @@ height="600px">
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                                                                  | Autor        | Revisor |
+| Versão | Data       | Descrição                              | Autor                                            | Revisor |
 |--------|------------|----------------------------------------|--------------------------------------------------|---------|
 | 1.0    | 16/04/2026 | Criação do Documento                   | [João Antonio](https://github.com/i-JSS)         |         |
 | 1.1    | 16/04/2026 | Detalhamento dos Clãs e membros        | [João Antonio](https://github.com/i-JSS)         |         |
-| 1.1    | 16/04/2026 | Review e Planning da sprint do Clã WEB | [João Antonio](https://github.com/luishenrrique) |         |
+| 1.2    | 26/04/2026 | Review e Planning da sprint do Clã WEB | [Luis Henrique](https://github.com/luishenrrique)|         |

@@ -12,8 +12,8 @@ Segundo o plano de ensino de 26.1 é necessário que a equipe decida uma dupla p
 |-----------|-------------------------------|-------------------|--------------|------------|
 | `1`       | Luciano de Freitas            | Giovanni Alvissus | 23/03/2026   | 13/04/2026 |
 | `2`       | João Antonio Ginuino Carvalho | Marcio Henrique   | 13/04/2026   | 27/04/2026 |
-| `3`       |                               |                   | 27/04/2026   | 11/05/2026 |
-| `4`       | Luis Henrique Luz Costa       | Raquel Ferreira   | 11/05/2026   | 25/05/2026 |
+| `3`       | Davi Gonçalves Akegawa Pierre |  Raquel Ferreira  | 27/04/2026   | 11/05/2026 |
+| `4`       | Luis Henrique Luz Costa       |                   | 11/05/2026   | 25/05/2026 |
 | `5`       | João Pedro Anacleto           |                   | 25/05/2026   | 08/06/2026 |
 | `6`       |                               |                   | 08/06/2026   | 22/06/2026 |
 | `7`       |                               |                   | 22/06/2026   | 06/07/2026 |
@@ -56,3 +56,4 @@ Segundo o plano de ensino de 26.1 é necessário que a equipe decida uma dupla p
 |--------|------------|------------------------------|------------------------------------------|------------------------------------------|
 | 1.0    | 15/04/2026 | Criação do Documento         | [João Antonio](https://github.com/i-JSS) |                                          |    
 | 1.1    | 16/04/2026 | Adiciona divisão das sprints | [João Antonio](https://github.com/i-JSS)                                         |                                          |
+| 1.2    | 27/04/2026 | Atualiza liderança 3         | [Raquel Andrade](https://github.com/raquel-andrade)      |    

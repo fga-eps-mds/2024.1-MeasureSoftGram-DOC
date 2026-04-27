@@ -125,7 +125,7 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ## Monitoramento dos Riscos
 
-<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/1GwJcwHRQiUD4aSyL3WGowaQ-XBv20FOyaGkc1mXob94/edit?gid=1250506191#gid=1250506191"></iframe>
+<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/1GwJcwHRQiUD4aSyL3WGowaQ-XBv20FOyaGkc1mXob94/edit?usp=sharing"></iframe>
 
 ## Conclusão
 

@@ -125,11 +125,13 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ## Monitoramento dos Riscos
 
-ESCREVER E COLOCAR A TABELA AQUI
+<iframe width="1080" height="600" src="https://docs.google.com/spreadsheets/d/1GwJcwHRQiUD4aSyL3WGowaQ-XBv20FOyaGkc1mXob94/edit?gid=1250506191#gid=1250506191"></iframe>
 
 ## Conclusão
 
-ESCREVER
+O plano de gestão de riscos estabelece uma base para que a equipe identifique, monitore e responda às principais ameaças ao longo das 15 sprints previstas, cobrindo riscos de natureza técnica, gerencial, organizacional e externa. 
+
+Pontuação de probabilidade e impacto foi construída coletivamente com o apoio de toda a equipe. Garantindo que as ações de prevenção e resposta sejam aplicadas, especialmente nos períodos que antecedem os Releases.
 
 ## Referências
 
@@ -141,6 +143,7 @@ ESCREVER
 
 
 ## Versionamento
-| Versao | Data       | Descricao            | Autor                                    | Revisor |
-|--------|------------|----------------------|------------------------------------------|---------|
-| 1.0    | 24/04/2026 | Criação do documento | [João Antonio](https://github.com/i-JSS) |         |
+| Versao | Data       | Descricao                              | Autor                                            | Revisor |
+|--------|------------|----------------------------------------|--------------------------------------------------|---------|
+| 1.0    | 24/04/2026 | Criação do documento                   | [João Antonio](https://github.com/i-JSS)         |         |
+| 1.1    | 27/04/2026 | Tabela de matriz de riscos e conclusão | [Luis Henrique](https://github.com/luishenrrique)|         |

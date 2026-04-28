@@ -104,4 +104,4 @@ Board original 2024.1 (histórico): <https://www.figma.com/board/2NiX8V1jx1s6AGb
 | Data | Versão | Descrição | Autor |
 | :-: | :-: | :-: | :-: |
 | 01/08/2024 | 1.0 | Versão inicial completa do documento | [Thiago Siqueira Gomes](https://github.com/thgomes) |
-| 27/04/2026 | 1.1 | Revisão R1 2026.1 — produto e MVP herdados de 2024.2 e revalidados com o cliente em aula 25/04/2026; visão, ENFN, objetivos, personas, jornadas, sequenciador e Canvas MVP permanecem vigentes; sem alterações de conteúdo nesta revisão | [Giovanni A. C. Giampauli](https://github.com/giovanniacg) |
+| 27/04/2026 | 1.1 | Revisão R1 2026.1: produto e Canvas MVP revalidados com o cliente em aula 25/04/2026 e iframe Figma migrado pro board 2026.1. Os prints (visão, ENFN, objetivos, personas, jornadas, sequenciador, Canvas MVP) ainda refletem decisões do semestre 2024.2 — atualização visual em curso, rastreada na issue de Lean Inception 2026.1 (a abrir). | [Giovanni A. C. Giampauli](https://github.com/giovanniacg) |

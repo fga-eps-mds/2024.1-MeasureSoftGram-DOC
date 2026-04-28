@@ -35,9 +35,20 @@
 
 - **PyPI**: O Python Package Index é um repositório para armazenar pacotes de código escritos na linguagem de programação Python. [<a href=./#referencia>8</a>]
 
+#### Gerenciamento de pacotes e runtime (decisão R1 2026.1)
+
+A partir do semestre 2026.1 padronizamos o ferramental de runtime e pacotes em todos os repositórios do MSGram. As decisões abaixo estão registradas nos PRs de modernização da stack Docker (Service [#1](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Service/pull/1) e Front [#5](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Front/pull/5), ambos *merged*):
+
+- **uv** — gerenciador único de pacotes Python (Service, Core, Parser, CLI). Substitui pip/pipenv/poetry. Lockfile reprodutível e instalação ~10× mais rápida em CI.
+- **pnpm** — gerenciador de pacotes JavaScript no Front. Substitui npm/yarn. Cache global por content-hash reduz tempo de build e disco.
+- **Python 3.12** — versão fixada nos repos Python (Service, Core, Parser, CLI), via `pyproject.toml` e imagem Docker oficial.
+- **Node 20 LTS** — versão fixada no Front, via `.nvmrc` e imagem Docker oficial.
+- **Versões pinadas em todas as imagens Docker** — sem `:latest`. Cada `Dockerfile` e `docker-compose.yml` referencia tag explícita (ex.: `python:3.12-slim`, `node:20-alpine`, `postgres:18-alpine`). Decisão tomada para garantir reprodutibilidade entre desenvolvimento, CI e homologação.
+- **Docker Compose v2 com `compose watch`** — substitui o antigo `docker-compose` v1. Hot reload nativo durante desenvolvimento.
+
 #### Banco de dados
 
-- **PostgreSQL**: Um poderoso sistema de banco de dados objeto-relacional de código aberto com mais de 35 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho. [<a href=./#referencia>9</a>]
+- **PostgreSQL 18** (decisão R1 2026.1): atualização do PG12/14 herdado para a versão estável mais recente do PostgreSQL, com tag fixada (`postgres:18-alpine`). Decisão registrada no PR de modernização da stack Docker do Service ([#1](https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Service/pull/1)). [<a href=./#referencia>9</a>]
 
 #### Serviços
 
@@ -166,4 +177,4 @@ Os nós de dispositivo são recursos físicos de computação com memória de pr
 |13/09/2024| Christian Siqueira | Atualizando o diagrama de banco de dados |1.1|
 |13/09/2024| Christian Siqueira | Adicioanndo diagrama de implantação |1.2|
 |13/09/2024| Christian Siqueira | Atualizando o diagrama de arquitetura|1.3|
-|27/04/2026| Giovanni A. C. Giampauli | Revisão R1 2026.1 — sem alterações de conteúdo: linguagens, tecnologias, serviços, banco de dados e diagramas permanecem vigentes; estrutura herdada de 2024.2 ainda reflete a arquitetura atual do MSGram |1.4|
+|27/04/2026| Giovanni A. C. Giampauli | Revisão R1 2026.1: registra decisões de stack do semestre — PostgreSQL 18, uv (Python), pnpm (JS), Python 3.12, Node 20 LTS, versões pinadas no Docker, Compose v2 com `compose watch`. Diagramas permanecem vigentes (sem mudança topológica). |1.4|

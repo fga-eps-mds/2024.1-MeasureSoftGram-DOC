@@ -89,9 +89,11 @@ O Canvas MVP do MeasureSoftGram:
 
 ## 3. Lean Inception Completa
 
-A Lean Inception Completa da equipe pode ser encontrada no Figma abaixo:
+A Lean Inception Completa da equipe pode ser encontrada no Figma abaixo (board 2026.1, revalidado com o cliente em aula 25/04/2026):
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/board/2NiX8V1jx1s6AGbbWErOuk/Visao-do-Produto-2024.1?node-id=0-1&t=pdAnMVHOTPkQuXp6-0" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/board/sshyjTPql8TvJvDzc2MIdK/Vis%C3%A3o-do-Produto-MeasureSoftgram-2026-1?node-id=0-1&p=f&t=PIk0yYQUqGY5mXk6-0" allowfullscreen></iframe>
+
+Board original 2024.1 (histórico): <https://www.figma.com/board/2NiX8V1jx1s6AGbbWErOuk/Visao-do-Produto-2024.1?node-id=0-1&t=pdAnMVHOTPkQuXp6-0>
 
 ## 4. Referências
 

@@ -117,3 +117,9 @@ As modificações do time de 2026.1 estão espalhadas em 6 repositórios:
 </table>
 
 </center>
+
+## Licença e Governança
+
+- [LICENSE](./LICENSE) — GNU Affero General Public License v3.0 (AGPL-3.0), alinhada com os demais repositórios do MeasureSoftGram.
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) — Contributor Covenant v2.0. Trata os padrões de comportamento esperados na comunidade.
+- [CONTRIBUTING.md](./CONTRIBUTING.md) — Guia para contribuir com este repositório de documentação.

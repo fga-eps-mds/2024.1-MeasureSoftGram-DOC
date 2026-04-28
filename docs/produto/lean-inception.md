@@ -102,3 +102,4 @@ A Lean Inception Completa da equipe pode ser encontrada no Figma abaixo:
 | Data | Versão | Descrição | Autor |
 | :-: | :-: | :-: | :-: |
 | 01/08/2024 | 1.0 | Versão inicial completa do documento | [Thiago Siqueira Gomes](https://github.com/thgomes) |
+| 27/04/2026 | 1.1 | Revisão R1 2026.1 — produto e MVP herdados de 2024.2 e revalidados com o cliente em aula 25/04/2026; visão, ENFN, objetivos, personas, jornadas, sequenciador e Canvas MVP permanecem vigentes; sem alterações de conteúdo nesta revisão | [Giovanni A. C. Giampauli](https://github.com/giovanniacg) |

@@ -166,3 +166,4 @@ Os nós de dispositivo são recursos físicos de computação com memória de pr
 |13/09/2024| Christian Siqueira | Atualizando o diagrama de banco de dados |1.1|
 |13/09/2024| Christian Siqueira | Adicioanndo diagrama de implantação |1.2|
 |13/09/2024| Christian Siqueira | Atualizando o diagrama de arquitetura|1.3|
+|27/04/2026| Giovanni A. C. Giampauli | Revisão R1 2026.1 — sem alterações de conteúdo: linguagens, tecnologias, serviços, banco de dados e diagramas permanecem vigentes; estrutura herdada de 2024.2 ainda reflete a arquitetura atual do MSGram |1.4|

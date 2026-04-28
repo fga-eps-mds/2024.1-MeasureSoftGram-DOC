@@ -1,7 +1,10 @@
 # Ferramentas
 
 ## Introdução 
+
+<div align="justify">&emsp;&emsp;
 Este documento tem como objetivo apresentar as ferramentas que serão utilizadas durante o projeto para organização, implementação e desenvolvimento do projeto durante todo o semestre letivo.
+</div>
 
 ## Ferramentas
 <table>
@@ -45,11 +48,18 @@ Este documento tem como objetivo apresentar as ferramentas que serão utilizadas
         <td style="vertical-align: middle;">Zenhub</td>
         <td style="vertical-align: middle;">Ferramenta de gestão e organização do fluxo de tarefas do projeto</td>
     </tr>
+    <tr>
+        <td><img src="../../assets/images/logo_dockerhub.png" width="100px"/></td>
+        <td style="vertical-align: middle;">DockerHub</td>
+        <td style="vertical-align: middle;">Ferramenta de armazenamento de imagens para desenvolvimento local</td>
+    </tr>
 </table>
 
 ## Histórico de Versão
 
-Data|Autor(es)|Descrição|Versão
-----|---------|--------------|--------
-08/04/2024 | Adne Moretti | Criação do documento | 1.0
-09/04/2024 | Brenno Oliveira | Formatação e complemento das ferramentas | 1.1
+
+| Versao | Data       | Descricao                                | Autor                                    | Revisor                                  |
+|--------|------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| 1.0    | 08/04/2024 | Criação do documento                     | Adne Moretti                             | [João Antonio](https://github.com/i-JSS) |
+| 1.1    | 09/04/2024 | Formatação e complemento das ferramentas | Brenno Oliveira                          | [João Antonio](https://github.com/i-JSS) |
+| 1.2    | 14/04/2026 | Adicionando DockerHub                    | [João Antonio](https://github.com/i-JSS) |                                          |    

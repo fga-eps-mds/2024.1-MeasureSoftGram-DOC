@@ -28,32 +28,29 @@ Objetivos do Produto MeasureSoftGram:
 A definição de personas é importante para entender o produto a partir do entendimento dos usuários. Nesta etapa o grupo define quais são os perfis dos usuários do produto e listam características relevantes de cada perfil de usuário. A partir dessa definição, é possível analisar cada aspecto do produto levando em conta necessidades específicas de cada grupo de usuário.
 
 As personas definidas para o MeasureSoftGram:
-![Persona 1](./assets/persona1.png)
-![Persona 2](./assets/persona2.png)
-![Persona 3](./assets/persona3.png)
-![Persona 4](./assets/persona4.png)
+![Persona 1](./assets/personas.png)
 
 
 ### 2.5 Jornadas do Usuário
 A jornada do usuário é importante pra entender qual o caminho que aquele usuário vai percorrer durante o uso da aplicação. Nesta etapa, é definido o caminho do usuário levando em conta o perfil de cada um baseado nas personas definidas na etapa anterior.
 
 A jornada dos usuários do MeasureSoftGram:
-![Jornadas Persona 1](./assets/jornada1.png)
-![Jornadas Persona 2](./assets/jornada2.png)
-![Jornadas Persona 3](./assets/jornada3.png)
-![Jornadas Persona 4](./assets/jornada4.png)
+![Jornadas Persona 1](./assets/jornada.png)
 
 ### 2.6 Brainstorm de Funcionalidades
 O Brainstorm de Funcionalidades é útil para propor novas funcionalidades para o produto. Durante esta etapa, a equipe deve sugerir o máximo possível de funcionalidades, sem qualquer julgamentos em relação às ideias propostas, para que seja levantado os mais variados cenários possíveis.
 
 O Brainstorm de Funcionalidades do MeasureSoftGram:
-![Brainstorm de Funcionalidades](./assets/torohdecerebro.png)
+![Brainstorm de Funcionalidades](./assets/brainstorm1.png)
+![Brainstorm de Funcionalidades](./assets/brainstorm2.png)
+![Brainstorm de Funcionalidades](./assets/brainstorm3.png)
 
 ### 2.7 Revisão Técnica, de Negócio e de UX
 Depois de identificar as funcionalidades, é necessário reavaliá-las, normalizá-las e eliminar aquelas que não são viáveis. Analisamos cada funcionalidade considerando o esforço, o valor para o negócio, a experiência dos usuários e o nível de confiança. O esforço, o valor para o negócio e o valor para a experiência do usuário são classificados em uma escala de um a três. O nível de confiança é classificado como baixo, médio ou alto, resultando em uma codificação por cores (vermelho, amarelo ou verde).
 
 Revisão Técnica do MeasureSoftGram:
-![Revisão Técnica, de Negócio e de UX](./assets/revisaotecnica.png)
+![Revisão Técnica, de Negócio e de UX](./assets/revisaotecnica1.png)
+![Revisão Técnica, de Negócio e de UX](./assets/revisaotecnica2.png)
 
 ### 2.8 Sequenciador
 O sequenciador é importante para priorizar as funcionalidades previamente identificadas e avaliadas. Para isso, o grupo deve organizar de forma sequencial as funcionalidades, de modo a indicar o que será implementado no MVP e o que será acrescentado posteriormente.
@@ -105,3 +102,4 @@ Board original 2024.1 (histórico): <https://www.figma.com/board/2NiX8V1jx1s6AGb
 | :-: | :-: | :-: | :-: |
 | 01/08/2024 | 1.0 | Versão inicial completa do documento | [Thiago Siqueira Gomes](https://github.com/thgomes) |
 | 27/04/2026 | 1.1 | Revisão R1 2026.1: produto e Canvas MVP revalidados com o cliente em aula 25/04/2026 e iframe Figma migrado pro board 2026.1. Os prints (visão, ENFN, objetivos, personas, jornadas, sequenciador, Canvas MVP) ainda refletem decisões do semestre 2024.2 — atualização visual em curso, rastreada na issue de Lean Inception 2026.1 (a abrir). | [Giovanni A. C. Giampauli](https://github.com/giovanniacg) |
+| 27/04/2026 | 1.2 | Imagens do Lean Inception 2026.1 | [Luis Henrique](https://github.com/luishenrrique)|

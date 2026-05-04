@@ -1,46 +1,131 @@
-site_name: 2024.1-MeasureSoftGram-DOC
+site_name: "MSGram Documentação"
 
-repo_name: "2024.1-MeasureSoftGram-DOC"
-repo_url: "https://github.com/fga-eps-mds/2024.1-MeasureSoftGram-DOC"
+site_description: Documentação oficial do MeasureSoftGram para a disciplina de Engenharia de Produto de Software do semestre 2026.1 da UnB.
+
+repo_name: "MeasureSoftGram-DOC"
+repo_url: "https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-DOC"
 
 theme:
   name: material
-  language: "pt"
-  logo: "assets/logo.svg"
+  language: pt-BR
+  logo: "assets/logo_branca.svg"
   favicon: "assets/logo.svg"
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
   palette:
-    primary: blue
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+markdown_extensions:
+  - admonition # Permite caixas de aviso (Notas, Dicas, Alertas)
+  - pymdownx.details # Caixas colapsáveis
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets # Permite importar trechos de código de outros arquivos
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - search
+  - glightbox
+  - mermaid2
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - Início: index.md
-  - Plano e Monitoramento:
-      - Comunicação: planejamento/comunicacao.md
-      - Ferramentas: planejamento/ferramentas.md
-      - Heatmap de horários: planejamento/horarios.md
-      - Tabela de Conhecimentos: planejamento/conhecimentos.md
-      - Custos: planejamento/custos.md
-      - Plano de Riscos: planejamento/riscos.md
-      - Plano de Qualidade: planejamento/qualidade.md
-  - Produto:
-      - Lean Inception: produto/lean-inception.md
-      - Documento de Identidade Visual: idv/identidade-visual.md
-      - Planejado X Realizado: produto/planejado-realizado.md
-  - Documentos do Projeto:
-      - Arquitetura: planejamento/arquitetura.md
-      - Metodologias: planejamento/metodologias.md
-      - EAP: planejamento/eap.md
-  - Sprints:
-      - Sprint 0:
-          - Review: sprints/sprint0/review.md
-          - Sprint: sprints/sprint0/sprint.md
-  - Guia de contribuição:
-      - Código de Conduta: guia-de-contribuicao/codigo-de-conduta.md
-      - Politica de Commits: guia-de-contribuicao/politica-de-commits.md
-      - Politica de Branches: guia-de-contribuicao/politica-de-branch.md
-  - Manual de instalação:
-      - Service: manual-de-instalacao/service.md
-      - Front: manual-de-instalacao/front.md
-      - Action: manual-de-instalacao/action.md
-      - CLI: manual-de-instalacao/cli.md
+#  - : main.md
+  - Gestão:
+      - Quem somos?: main.md
+      - Equipe:
+          - Comunicação: planejamento/comunicacao.md
+          - Ferramentas: planejamento/ferramentas.md
+          - Lideranças Rotativas: planejamento/lideranca.md
+          - Metodologias de Clãs: planejamento/clas.md
+          - Metodologias de Desenvolvimento: planejamento/metodologias.md
+          - Tabela de Conhecimentos: planejamento/conhecimentos.md
+      - Guia de contribuição:
+          - Código de Conduta: guia-de-contribuicao/codigo-de-conduta.md
+          - Política de Commits: guia-de-contribuicao/politica-de-commits.md
+          - Política de Branches: guia-de-contribuicao/politica-de-branch.md
+      - Planejamento:
+          - Custos: planejamento/custos.md
+          - AgileEVM: planejamento/agileEVM.md
+          - Plano de Riscos: planejamento/riscos.md
+#      - EAP: planejamento/eap.md
+#      - Lean Inception:
+#      - Plano de Qualidade:
 
-  - Post-Mortem: post-mortem/post-mortem.md
+  - Produto:
+       - EAP: produto/eap.md
+       - Arquitetura: planejamento/arquitetura.md
+       - Post-Mortem (2024.1): post-mortem/post-mortem.md
+       - Documento de Identidade Visual: idv/identidade-visual.md
+
+  - Action:
+      - Manual de Uso: manual-de-instalacao/guia-action.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+          - Onboarding: onboarding/actionLocal.md
+          - Repositório: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Action
+
+  - CLI:
+      - Manual de Uso: manual-de-instalacao/guia-cli.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+          - Onboarding: onboarding/actionLocal.md
+          - Repositório: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-CLI
+
+  - Core:
+      - Manual de Uso: manual-de-instalacao/guia-core.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+          - Onboarding: onboarding/actionLocal.md
+          - Repositório: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Core
+
+  - Front:
+      - Manual de Uso: manual-de-instalacao/guia-front.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+          - Onboarding: onboarding/actionLocal.md
+          - Repositório: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Front
+
+  - Parser:
+      - Manual de Uso: manual-de-instalacao/guia-parser.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+          - Onboarding: onboarding/actionLocal.md
+          - Parser: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Parser
+
+  - Service:
+      - Manual de Uso: manual-de-instalacao/guia-service.md
+      - Guia de Desenvolvimento:
+#          - Arquitetura:
+            - Onboarding: onboarding/actionLocal.md
+            - Repositório: https://github.com/fga-eps-mds/2026.1-MeasureSoftGram-Service

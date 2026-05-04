@@ -21,10 +21,9 @@ Este documento se baseia no [documento de políticas de branches do semestre 202
 </p>
 
 ```bash
-  (iniciais<opcional>)/docs/X
 
   Exemplo:
-  cf/docs/DOC006
+  docs/DOC006
 ```
 
 <p align="justify" style="text-indent: 20px">
@@ -92,10 +91,9 @@ hotfix/guia_contribuicao
 - Toda nova funcionalidade tem sua própria branch, seguindo o seguinte padrão de nome:
 
 ```bash
-(iniciais<opcional>)/feature/X
+feat/X
 
-Exemplo de Feature Criado por Cícero Fernandes:
-cf/feature/US003
+feat/US003
 ```
 
 <p align="justify" style="text-indent: 20px">
@@ -140,10 +138,9 @@ release/v1.0.28
 - Seu nome segue o seguinte padrão.
 
 ```bash
-(iniciais<opcional>)/fix/X
 
 Exemplo:
-cf/fix/BUG002
+fix/BUG002
 ```
 
 <p align="justify" style="text-indent: 20px">
@@ -185,6 +182,6 @@ hotfix/v2.4.3
 
 ## Histórico de Versão
 
-|    Data    |                      Autor                      |            Descrição             | Versão |
-| :--------: | :---------------------------------------------: | :------------------------------: | :----: |
-| 30/07/2024 | [Cícero Fernandes](https://github.com/ciceroff) | Adicionando politica de branches |  1.0   |
+|   Versao   | Data       | Descricao                        |                      Autor                       | Revisor |
+|  --------  |------------|----------------------------------|    ------------------------------------------    |---------|
+|    1.0     | 30/07/2024 | Adicionando politica de branches | [Cícero Fernandes](https://github.com/ciceroff)  |[João Antonio](https://github.com/i-JSS) |   

@@ -118,6 +118,7 @@ Para mais comandos para [integração com pré-commit](https://commitizen-tools.
 
 ## Histórico de Versão
 
-|    Data    |                      Autor                      |            Descrição            | Versão |
-| :--------: | :---------------------------------------------: | :-----------------------------: | :----: |
-| 30/07/2024 | [Cícero Fernandes](https://github.com/ciceroff) | Adicionando politica de commits |  1.0   |
+
+|   Versao   | Data       | Descricao                        |                      Autor                       | Revisor |
+|  --------  |------------|----------------------------------|    ------------------------------------------    |---------|
+|    1.0     | 30/07/2024 | Adicionando politica de commits | [Cícero Fernandes](https://github.com/ciceroff)  |[João Antonio](https://github.com/i-JSS) |   
